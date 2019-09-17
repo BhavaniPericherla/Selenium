@@ -12,6 +12,7 @@ public class A1_StudentRegForm {
 	public void StudentRegUI()
 	{	
 		System.out.println("Testing");
+		System.out.println("Testing");
 	}
 	public static void main(String[] args) {
 	//TODO Auto-generated method stub

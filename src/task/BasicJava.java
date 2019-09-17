@@ -16,7 +16,6 @@ public WebDriver driver;
 		System.out.println("Successfully opened the website");
 		//System.out.println(driver.getCurrentUrl());
 		//System.out.println(driver.getTitle());
-		System.out.println("Testing");
 		
 		return driver;
 	}
